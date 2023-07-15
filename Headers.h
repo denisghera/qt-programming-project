@@ -1,0 +1,15 @@
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
+#include <ctime>
+#include <iomanip>
+#include <limits>
+#include <stdexcept>
+#include <regex>
+#include <QDebug>
+#include <QFile>
+#include <QString>
+#include <QDate>
+#include <QTableWidget>

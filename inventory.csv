@@ -1,0 +1,11 @@
+ID,Name,Category,State,Quantity,Exp Date
+101,Flour,Baking,kilograms,20,26/07/23
+102,salt,category2,kilograms,3.9,23/01/24
+103,butter,category3,kilograms,45.8,09/06/23
+104,celery,category4,kilograms,25.2,30/06/24
+202,red_wine,category5,liters,19.9,01/04/23
+203,white_wine,category5,liters,29.9,04/05/23
+204,honey,category1,liters,30,23/06/23
+205,sesame_oil,category1,liters,11,06/06/23
+123,potatoes,abc,kilograms,2,26/07/23
+124,milk,diary,liters,0.4,25/07/23
